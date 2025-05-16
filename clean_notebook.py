@@ -36,7 +36,7 @@ def clean_notebook(input_path, output_path=None):
     with open(output_path, 'w', encoding='utf-8') as f:
         nbformat.write(nb, f)
 
-    print(f"✅ Notebook nettoyé enregistré sous : {output_path}")
+    print(f"Notebook nettoyé enregistré sous : {output_path}")
 
 # Exemple d'utilisation
 
