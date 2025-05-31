@@ -16,7 +16,7 @@ L’objectif principal est d’identifier des groupes de clients distincts pour 
 
 Les graphiques ont été réalisés avec la librairie Plotly (graphiques interactifs).  
 Note : ces visualisations ne s’affichent pas directement sur GitHub, car elles sont au format HTML.  
-Vous pouvez les visualiser en téléchargeant l notebook(html ou .ipynb) ou utiliser ce lien (https://nbviewer.org/github.com/GSDigger01/RFM-Segmentation/blob/main/RFM_clean-2.ipynb). 
+Vous pouvez les visualiser en téléchargeant le notebook ou via ce lien:  https://gsdigger01.github.io/RFM-Segmentation/. 
 
 ## À noter
 
