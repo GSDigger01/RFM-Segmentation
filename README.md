@@ -7,10 +7,10 @@ L’objectif principal est d’identifier des groupes de clients distincts pour 
 
 ## Contenu du projet
 
-- `RFM_Segmentation.ipynb` : notebook principal contenant les étapes de traitement, de scoring et de visualisation.
-- `rfm_dataset.csv` : données utilisées pour la segmentation.
+- `RFM_clean.ipynb` : notebook principal contenant les étapes de traitement, de scoring et de visualisation.
 - `clean_notebook.py` : fonction utilitaire pour nettoyer un notebook (variables et sorties).
-- `graphiques/` : dossier contenant les visualisations statiques au format PNG.
+- `Scatter_plot_fx.py` : fonction pour créer un scatter plot 2D avec plotly 
+- `Output/` : dossier contenant les visualisations statiques au format PNG et le scatter plot interractif (html).
 
 ## Visualisations
 
