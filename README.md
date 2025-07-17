@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/Customer2.jpg" alt="Tutoriel KNN et Cross Validation" width="40%">
+</p>
+
 # RFM Segmentation
 
 Ce projet vise à mettre en place une segmentation client basée sur les métriques RFM : Récence, Fréquence et Montant.  
