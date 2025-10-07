@@ -26,4 +26,6 @@ Vous pouvez les visualiser en téléchargeant le notebook ou via ce lien:  https
 
 - Les segments RFM sont définis selon des règles simples et orientées métier.
 - Plusieurs versions statiques des graphiques sont disponibles pour faciliter la lecture.
-
+  
+### **Aperçu des segments de client**
+<img src="./Output/scatter_rfm.png" alt="Scatter plot" width="500"/>
