@@ -28,4 +28,24 @@ Vous pouvez les visualiser en téléchargeant le notebook ou via ce lien:  https
 - Plusieurs versions statiques des graphiques sont disponibles pour faciliter la lecture.
   
 ### **Aperçu des segments de client**
-<img src="./Output/scatter_rfm.png" alt="Scatter plot" width="500"/>
+<img src="./Output/scatter_rfm.png" alt="Scatter plot" width="500"/>  
+
+## Impacts
+Grâce à cette segmentation RFM optimisée, nous pouvons déjà identifier des profils clients clés permettant un ciblage marketing plus pertinent et efficace. Chaque segment révèle des comportements d’achat spécifiques , qu’il s’agisse des clients Premium, des Fidèles, des Nouveaux acheteurs, des clients à réactiver ou des Inactifs.
+
+Cette classification permet d’adapter les actions marketing à la réalité terrain, en déployant des stratégies ciblées :  
+
+- Récompenses et exclusivités pour les Premium  
+- Programme de fidélisation pour les clients réguliers  
+- Parcours d’onboarding pour les nouveaux  
+- Campagnes de relance pour les clients à réengager  
+- Maîtrise des coûts marketing pour les segments peu engagés  
+Cela se traduit par une meilleure efficacité des campagnes, une réduction des coûts d’acquisition et de rétention, et une amélioration de la satisfaction client par des communications plus personnalisées et utiles.  
+
+Enfin, cette analyse peut servir de base pour des initiatives plus avancées, comme un système de recommandation intelligent, capable de prédire les préférences produits de chaque profil client et d’automatiser les propositions commerciales personnalisées. Ce type d’approche ouvre la voie à une stratégie de marketing prédictif orientée valeur client.  
+
+⚠️ Disclaimer :
+All datasets used in this project are synthetic and fictitious, created for educational and demonstrative purposes .
+
+👤 Author :
+Developed by FRANCIS NOGO – Analytics Engineer
